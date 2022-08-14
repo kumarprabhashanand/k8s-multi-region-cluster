@@ -7,7 +7,7 @@ variable "region" {
 }
 
 variable "subnet_name" {
-  default = "nik-gcp-learning--pri-subnet"
+  default = "nik-gcp-learning-pri-subnet"
 }
 
 variable "vpc_name" {
